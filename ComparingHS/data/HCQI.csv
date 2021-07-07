@@ -1,0 +1,1643 @@
+Country,Indicator,Gender,Age Group,VAL,Value.1
+Canada,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,92.0
+Canada,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,71.4
+Canada,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,23.5
+Canada,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,93.9
+Canada,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,75.6
+Canada,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,25.9
+Canada,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,93.1
+Canada,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,73.8
+Canada,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,24.8
+Denmark,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,98.1
+Denmark,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,92.0
+Denmark,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,36.1
+Denmark,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,97.2
+Denmark,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,90.8
+Denmark,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,33.1
+Denmark,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,97.6
+Denmark,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,91.4
+Denmark,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,34.5
+Germany,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,90.6
+Germany,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,81.6
+Germany,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,35.9
+Germany,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,93.3
+Germany,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,86.5
+Germany,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,38.4
+Germany,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,92.1
+Germany,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,84.4
+Germany,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,37.5
+Italy,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,66.2
+Italy,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,36.1
+Italy,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,7.3
+Italy,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,72.2
+Italy,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,40.8
+Italy,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,8.4
+Italy,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,69.7
+Italy,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,38.8
+Italy,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,7.9
+New Zealand,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,91.1
+New Zealand,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,70.5
+New Zealand,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,16.1
+New Zealand,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,92.6
+New Zealand,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,71.6
+New Zealand,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,20.0
+New Zealand,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,92.0
+New Zealand,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,71.3
+New Zealand,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,18.3
+Norway,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,96.6
+Norway,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,80.6
+Norway,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,27.3
+Norway,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,96.5
+Norway,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,82.9
+Norway,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,27.3
+Norway,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,96.6
+Norway,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,82.0
+Norway,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,27.4
+Sweden,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,93.8
+Sweden,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,83.6
+Sweden,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,36.0
+Sweden,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,93.5
+Sweden,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,84.6
+Sweden,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,37.7
+Sweden,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,93.7
+Sweden,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,84.2
+Sweden,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,36.9
+United Kingdom,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,86.8
+United Kingdom,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,90.2
+United Kingdom,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,88.7
+Israel,Hip-fracture surgery initiated within 2 days after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,87.9
+Israel,Hip-fracture surgery initiated within the following day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,67.2
+Israel,Hip-fracture surgery initiated within the same day after admission to the hospital,Male,65 years old and over,CRUDE_RATE_CPAT,20.4
+Israel,Hip-fracture surgery initiated within 2 days after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,88.3
+Israel,Hip-fracture surgery initiated within the following day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,68.0
+Israel,Hip-fracture surgery initiated within the same day after admission to the hospital,Female,65 years old and over,CRUDE_RATE_CPAT,19.6
+Israel,Hip-fracture surgery initiated within 2 days after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,88.1
+Israel,Hip-fracture surgery initiated within the following day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,67.5
+Israel,Hip-fracture surgery initiated within the same day after admission to the hospital,Total,65 years old and over,CRUDE_RATE_CPAT,20.1
+Canada,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.3
+Canada,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.1
+Canada,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,6.6
+Canada,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,4.4
+Canada,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.2
+Canada,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,4.6
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,28.8
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,27.1
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,30.5
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,24.7
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,23.3
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,26.2
+Canada,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,9.3
+Canada,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,8.8
+Canada,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,9.8
+Canada,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,7.6
+Canada,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,7.2
+Canada,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,8.0
+Canada,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.7
+Canada,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,6.4
+Canada,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,7.1
+Canada,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,4.9
+Canada,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,4.7
+Canada,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,5.2
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,26.8
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,25.2
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,28.3
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,22.8
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,21.5
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,24.1
+Canada,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,9.1
+Canada,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,8.6
+Canada,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,9.5
+Canada,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,7.5
+Canada,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,7.1
+Canada,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,7.8
+Canada,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.4
+Canada,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,6.2
+Canada,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,6.6
+Canada,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,4.6
+Canada,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,4.5
+Canada,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,4.8
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,27.6
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,26.5
+Canada,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,28.7
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,23.6
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,22.6
+Canada,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,24.5
+Canada,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,9.2
+Canada,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,8.9
+Canada,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,9.5
+Canada,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,7.5
+Canada,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,7.3
+Canada,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,7.8
+Denmark,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.7
+Denmark,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,5.9
+Denmark,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,7.4
+Denmark,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,4.6
+Denmark,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.0
+Denmark,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.2
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,28.4
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,25.9
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,31.0
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,23.8
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,21.4
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,26.2
+Denmark,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,8.2
+Denmark,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,7.4
+Denmark,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,9.0
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,5.2
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.5
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.8
+Denmark,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.4
+Denmark,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,5.6
+Denmark,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,7.3
+Denmark,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,4.0
+Denmark,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,3.4
+Denmark,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,4.7
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,29.1
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,26.6
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,31.5
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,24.1
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,21.8
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,26.4
+Denmark,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,9.5
+Denmark,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,8.7
+Denmark,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,10.3
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,4.6
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,4.0
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,5.2
+Denmark,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.8
+Denmark,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,6.2
+Denmark,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,7.4
+Denmark,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,4.5
+Denmark,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,4.0
+Denmark,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,5.0
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,28.8
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,27.1
+Denmark,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,30.6
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,23.9
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,22.3
+Denmark,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,25.6
+Denmark,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,9.0
+Denmark,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,8.4
+Denmark,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,9.6
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,4.8
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,4.4
+Denmark,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,5.3
+Germany,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,8.0
+Germany,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,7.5
+Germany,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,8.5
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,20.0
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,18.1
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,21.8
+Germany,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,5.4
+Germany,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.9
+Germany,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.9
+Germany,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,8.4
+Germany,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,7.7
+Germany,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,9.1
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,23.5
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,21.6
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,25.5
+Germany,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.8
+Germany,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,6.3
+Germany,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,7.3
+Germany,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,8.3
+Germany,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,7.8
+Germany,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,8.7
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,22.0
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,20.7
+Germany,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,23.4
+Germany,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.2
+Germany,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,5.9
+Germany,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,6.6
+New Zealand,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,7.5
+New Zealand,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.7
+New Zealand,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,8.2
+New Zealand,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,4.2
+New Zealand,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,3.7
+New Zealand,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,4.7
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,28.5
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,25.3
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,31.6
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,19.0
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,16.6
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,21.5
+New Zealand,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,10.0
+New Zealand,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,8.9
+New Zealand,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,11.0
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,5.4
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.6
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,6.1
+New Zealand,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,8.3
+New Zealand,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,7.3
+New Zealand,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,9.3
+New Zealand,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,4.5
+New Zealand,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,3.8
+New Zealand,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,5.1
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,36.6
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,33.3
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,39.8
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,22.2
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,19.8
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,24.7
+New Zealand,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,13.0
+New Zealand,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,11.9
+New Zealand,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,14.2
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,7.2
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,6.4
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,8.0
+New Zealand,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,7.7
+New Zealand,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,7.2
+New Zealand,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,8.3
+New Zealand,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,4.3
+New Zealand,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,3.9
+New Zealand,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,4.7
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,32.6
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,30.4
+New Zealand,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,34.9
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,20.9
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,19.1
+New Zealand,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,22.6
+New Zealand,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,11.7
+New Zealand,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,10.9
+New Zealand,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,12.5
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.5
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,5.9
+New Zealand,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,7.0
+Norway,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.3
+Norway,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,5.7
+Norway,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,6.9
+Norway,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,3.0
+Norway,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,2.6
+Norway,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,3.4
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,23.3
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,20.8
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,25.7
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,14.3
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,12.6
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,16.1
+Norway,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,7.3
+Norway,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.5
+Norway,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,8.1
+Norway,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,3.6
+Norway,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,3.0
+Norway,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,4.1
+Norway,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.5
+Norway,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,5.7
+Norway,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,7.2
+Norway,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,3.3
+Norway,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,2.9
+Norway,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,3.7
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,26.1
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,23.4
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,28.7
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,17.0
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,15.1
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,19.0
+Norway,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,8.3
+Norway,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,7.4
+Norway,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,9.1
+Norway,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,3.9
+Norway,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,3.3
+Norway,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,4.5
+Norway,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.4
+Norway,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,6.0
+Norway,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,6.9
+Norway,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,3.2
+Norway,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,2.9
+Norway,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,3.4
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,24.8
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,23.0
+Norway,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,26.5
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,15.8
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,14.5
+Norway,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,17.2
+Norway,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,7.8
+Norway,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,7.2
+Norway,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,8.3
+Norway,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,3.8
+Norway,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,3.4
+Norway,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,4.2
+Sweden,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.5
+Sweden,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.1
+Sweden,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,7.0
+Sweden,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,3.4
+Sweden,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,3.1
+Sweden,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,3.6
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,23.0
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,21.4
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,24.6
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,14.4
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,13.3
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,15.5
+Sweden,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,9.2
+Sweden,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,8.6
+Sweden,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,9.8
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,5.0
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.6
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.4
+Sweden,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,7.1
+Sweden,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,6.5
+Sweden,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,7.7
+Sweden,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,3.6
+Sweden,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,3.3
+Sweden,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,4.0
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,26.3
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,24.5
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,28.0
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,16.0
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,14.7
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,17.2
+Sweden,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,10.3
+Sweden,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,9.6
+Sweden,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,10.9
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,5.7
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,5.2
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,6.1
+Sweden,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.8
+Sweden,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,6.4
+Sweden,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,7.1
+Sweden,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,3.5
+Sweden,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,3.2
+Sweden,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,3.7
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,24.8
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,23.6
+Sweden,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,25.9
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,15.3
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,14.4
+Sweden,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,16.1
+Sweden,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,9.8
+Sweden,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,9.4
+Sweden,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,10.2
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,5.4
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,5.1
+Sweden,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,5.7
+United Kingdom,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,8.1
+United Kingdom,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,7.8
+United Kingdom,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,8.3
+United Kingdom,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.5
+United Kingdom,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,6.3
+United Kingdom,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,6.7
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,42.9
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,42.1
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,43.8
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,25.3
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,24.5
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,26.1
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,11.0
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,10.6
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,11.3
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,8.3
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,8.0
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,8.5
+United Kingdom,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,8.2
+United Kingdom,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,7.9
+United Kingdom,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,8.5
+United Kingdom,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.7
+United Kingdom,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,6.5
+United Kingdom,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,7.0
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,39.5
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,38.6
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,40.4
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,29.7
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,28.8
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,30.5
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,12.8
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,12.5
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,13.2
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,9.5
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,9.2
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,9.7
+United Kingdom,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,8.1
+United Kingdom,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,7.9
+United Kingdom,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,8.3
+United Kingdom,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,6.6
+United Kingdom,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,6.4
+United Kingdom,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,6.7
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,41.7
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,41.1
+United Kingdom,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,42.3
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,27.5
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,26.9
+United Kingdom,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,28.1
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,12.0
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,11.8
+United Kingdom,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,12.2
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,9.0
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,8.8
+United Kingdom,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,9.2
+Israel,AMI 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.7
+Israel,AMI 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.1
+Israel,AMI 30 day mortality using linked data,Male,45 years old and over,UP_CI,7.3
+Israel,AMI 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,4.6
+Israel,AMI 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.1
+Israel,AMI 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.1
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,20.8
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,18.5
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,23.1
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,17.7
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,15.6
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,19.8
+Israel,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,AS_STD_RATE_CPAT,6.9
+Israel,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,LOW_CI,6.1
+Israel,Ischemic stroke 30 day mortality using linked data,Male,45 years old and over,UP_CI,7.6
+Israel,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,AS_STD_RATE_CPAT,5.0
+Israel,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,LOW_CI,4.3
+Israel,Ischemic stroke 30 day mortality using unlinked data,Male,45 years old and over,UP_CI,5.6
+Israel,AMI 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,7.8
+Israel,AMI 30 day mortality using linked data,Female,45 years old and over,LOW_CI,6.9
+Israel,AMI 30 day mortality using linked data,Female,45 years old and over,UP_CI,8.6
+Israel,AMI 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.0
+Israel,AMI 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,5.2
+Israel,AMI 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,6.7
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,26.9
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,24.0
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,29.8
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,23.1
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,20.4
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,25.8
+Israel,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,AS_STD_RATE_CPAT,9.4
+Israel,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,LOW_CI,8.6
+Israel,Ischemic stroke 30 day mortality using linked data,Female,45 years old and over,UP_CI,10.2
+Israel,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,AS_STD_RATE_CPAT,6.5
+Israel,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,LOW_CI,5.8
+Israel,Ischemic stroke 30 day mortality using unlinked data,Female,45 years old and over,UP_CI,7.2
+Israel,AMI 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,7.3
+Israel,AMI 30 day mortality using linked data,Total,45 years old and over,LOW_CI,6.8
+Israel,AMI 30 day mortality using linked data,Total,45 years old and over,UP_CI,7.8
+Israel,AMI 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,5.3
+Israel,AMI 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,4.9
+Israel,AMI 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,5.7
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,23.9
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,22.0
+Israel,Hemorrhagic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,25.7
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,20.4
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,18.7
+Israel,Hemorrhagic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,22.2
+Israel,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,AS_STD_RATE_CPAT,8.3
+Israel,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,LOW_CI,7.7
+Israel,Ischemic stroke 30 day mortality using linked data,Total,45 years old and over,UP_CI,8.8
+Israel,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,AS_STD_RATE_CPAT,5.8
+Israel,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,LOW_CI,5.4
+Israel,Ischemic stroke 30 day mortality using unlinked data,Total,45 years old and over,UP_CI,6.3
+Canada,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,8.3
+Canada,Asthma hospital admission,Male,15 years old and over,LOW_CI,7.8
+Canada,Asthma hospital admission,Male,15 years old and over,UP_CI,8.7
+Canada,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,224.6
+Canada,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,222.3
+Canada,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,226.9
+Canada,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,194.3
+Canada,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,192.1
+Canada,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,196.5
+Canada,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,116.9
+Canada,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,115.2
+Canada,Diabetes hospital admission ,Male,15 years old and over,UP_CI,118.6
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,10.6
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,10.1
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,11.1
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MDIAB,67.6
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI_DIAB,73.0
+Canada,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI_DIAB,62.1
+Canada,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,12.3
+Canada,Hypertension hospital admission,Male,15 years old and over,LOW_CI,11.8
+Canada,Hypertension hospital admission,Male,15 years old and over,UP_CI,12.9
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,232.9
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,230.1
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,235.7
+Canada,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,206.7
+Canada,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,203.9
+Canada,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,209.4
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,10.4
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,9.9
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,10.9
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MDIAB,67.0
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI_DIAB,72.6
+Canada,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI_DIAB,61.4
+Canada,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,18.5
+Canada,Asthma hospital admission,Female,15 years old and over,LOW_CI,17.8
+Canada,Asthma hospital admission,Female,15 years old and over,UP_CI,19.1
+Canada,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,208.5
+Canada,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,206.5
+Canada,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,210.6
+Canada,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,147.2
+Canada,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,145.5
+Canada,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,148.9
+Canada,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,78.7
+Canada,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,77.4
+Canada,Diabetes hospital admission ,Female,15 years old and over,UP_CI,80.1
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.6
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,3.3
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,3.8
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MDIAB,31.1
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI_DIAB,34.9
+Canada,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI_DIAB,27.2
+Canada,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,14.5
+Canada,Hypertension hospital admission,Female,15 years old and over,LOW_CI,13.9
+Canada,Hypertension hospital admission,Female,15 years old and over,UP_CI,15.0
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,227.0
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,224.3
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,229.7
+Canada,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,161.7
+Canada,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,159.4
+Canada,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,163.9
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.6
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,3.3
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,3.8
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MDIAB,31.8
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI_DIAB,35.9
+Canada,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI_DIAB,27.8
+Canada,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,13.7
+Canada,Asthma hospital admission,Total,15 years old and over,LOW_CI,13.3
+Canada,Asthma hospital admission,Total,15 years old and over,UP_CI,14.1
+Canada,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,213.1
+Canada,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,211.6
+Canada,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,214.7
+Canada,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,167.6
+Canada,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,166.2
+Canada,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,168.9
+Canada,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,96.0
+Canada,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,95.0
+Canada,Diabetes hospital admission ,Total,15 years old and over,UP_CI,97.1
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,6.9
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,6.6
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,7.1
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MDIAB,50.3
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI_DIAB,53.7
+Canada,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI_DIAB,47.0
+Canada,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,13.9
+Canada,Hypertension hospital admission,Total,15 years old and over,LOW_CI,13.5
+Canada,Hypertension hospital admission,Total,15 years old and over,UP_CI,14.3
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,226.8
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,224.9
+Canada,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,228.8
+Canada,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,181.5
+Canada,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,179.7
+Canada,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,183.2
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,6.8
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,6.5
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,7.0
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MDIAB,50.4
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI_DIAB,53.9
+Canada,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI_DIAB,47.0
+Denmark,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,43.0
+Denmark,Asthma hospital admission,Male,15 years old and over,LOW_CI,40.3
+Denmark,Asthma hospital admission,Male,15 years old and over,UP_CI,45.6
+Denmark,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,276.6
+Denmark,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,270.2
+Denmark,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,282.9
+Denmark,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,241.0
+Denmark,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,234.9
+Denmark,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,247.1
+Denmark,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,166.8
+Denmark,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,161.7
+Denmark,Diabetes hospital admission ,Male,15 years old and over,UP_CI,171.8
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,11.4
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,10.1
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,12.7
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MDIAB,96.9
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI_DIAB,109.2
+Denmark,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI_DIAB,84.6
+Denmark,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,50.3
+Denmark,Hypertension hospital admission,Male,15 years old and over,LOW_CI,47.5
+Denmark,Hypertension hospital admission,Male,15 years old and over,UP_CI,53.0
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,319.5
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,310.5
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,328.5
+Denmark,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,291.3
+Denmark,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,282.4
+Denmark,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,300.1
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,13.8
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,12.4
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,15.2
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MDIAB,114.4
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI_DIAB,127.5
+Denmark,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI_DIAB,101.3
+Denmark,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,89.1
+Denmark,Asthma hospital admission,Female,15 years old and over,LOW_CI,85.3
+Denmark,Asthma hospital admission,Female,15 years old and over,UP_CI,92.9
+Denmark,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,297.8
+Denmark,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,291.8
+Denmark,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,303.8
+Denmark,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,113.8
+Denmark,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,110.1
+Denmark,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,117.5
+Denmark,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,95.1
+Denmark,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,91.4
+Denmark,Diabetes hospital admission ,Female,15 years old and over,UP_CI,98.9
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.5
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,2.9
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,4.2
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MDIAB,39.4
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI_DIAB,47.4
+Denmark,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI_DIAB,31.5
+Denmark,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,63.5
+Denmark,Hypertension hospital admission,Female,15 years old and over,LOW_CI,60.6
+Denmark,Hypertension hospital admission,Female,15 years old and over,UP_CI,66.4
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,386.9
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,377.1
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,396.8
+Denmark,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,177.3
+Denmark,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,170.7
+Denmark,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,183.9
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,5.2
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,4.4
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,6.0
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MDIAB,60.6
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI_DIAB,71.2
+Denmark,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI_DIAB,49.9
+Denmark,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,66.5
+Denmark,Asthma hospital admission,Total,15 years old and over,LOW_CI,64.2
+Denmark,Asthma hospital admission,Total,15 years old and over,UP_CI,68.9
+Denmark,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,287.0
+Denmark,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,282.7
+Denmark,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,291.4
+Denmark,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,168.3
+Denmark,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,164.9
+Denmark,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,171.6
+Denmark,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,128.1
+Denmark,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,125.0
+Denmark,Diabetes hospital admission ,Total,15 years old and over,UP_CI,131.2
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,6.6
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,5.9
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,7.3
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MDIAB,58.3
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI_DIAB,65.5
+Denmark,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI_DIAB,51.1
+Denmark,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,58.6
+Denmark,Hypertension hospital admission,Total,15 years old and over,LOW_CI,56.6
+Denmark,Hypertension hospital admission,Total,15 years old and over,UP_CI,60.7
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,353.6
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,346.9
+Denmark,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,360.2
+Denmark,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,226.9
+Denmark,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,221.5
+Denmark,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,232.3
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,9.2
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,8.5
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,10.0
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MDIAB,91.7
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI_DIAB,100.2
+Denmark,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI_DIAB,83.3
+Germany,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,22.7
+Germany,Asthma hospital admission,Male,15 years old and over,LOW_CI,22.2
+Germany,Asthma hospital admission,Male,15 years old and over,UP_CI,23.2
+Germany,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,292.8
+Germany,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,291.2
+Germany,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,294.4
+Germany,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,461.7
+Germany,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,459.6
+Germany,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,463.7
+Germany,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,269.2
+Germany,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,267.6
+Germany,Diabetes hospital admission ,Male,15 years old and over,UP_CI,270.9
+Germany,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,12.5
+Germany,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,12.2
+Germany,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,12.9
+Germany,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,183.9
+Germany,Hypertension hospital admission,Male,15 years old and over,LOW_CI,182.6
+Germany,Hypertension hospital admission,Male,15 years old and over,UP_CI,185.3
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,315.5
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,313.4
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,317.6
+Germany,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,645.6
+Germany,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,642.2
+Germany,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,649.0
+Germany,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,39.3
+Germany,Asthma hospital admission,Female,15 years old and over,LOW_CI,38.7
+Germany,Asthma hospital admission,Female,15 years old and over,UP_CI,40.0
+Germany,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,216.7
+Germany,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,215.4
+Germany,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,218.0
+Germany,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,340.1
+Germany,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,338.7
+Germany,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,341.6
+Germany,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,151.8
+Germany,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,150.6
+Germany,Diabetes hospital admission ,Female,15 years old and over,UP_CI,153.0
+Germany,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,4.0
+Germany,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,3.9
+Germany,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,4.2
+Germany,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,304.3
+Germany,Hypertension hospital admission,Female,15 years old and over,LOW_CI,302.7
+Germany,Hypertension hospital admission,Female,15 years old and over,UP_CI,305.8
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,256.1
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,254.1
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,258.0
+Germany,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,644.4
+Germany,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,641.4
+Germany,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,647.4
+Germany,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,31.5
+Germany,Asthma hospital admission,Total,15 years old and over,LOW_CI,31.0
+Germany,Asthma hospital admission,Total,15 years old and over,UP_CI,31.9
+Germany,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,249.6
+Germany,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,248.5
+Germany,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,250.6
+Germany,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,393.8
+Germany,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,392.6
+Germany,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,395.0
+Germany,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,206.1
+Germany,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,205.1
+Germany,Diabetes hospital admission ,Total,15 years old and over,UP_CI,207.1
+Germany,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,7.9
+Germany,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,7.7
+Germany,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,8.1
+Germany,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,254.5
+Germany,Hypertension hospital admission,Total,15 years old and over,LOW_CI,253.4
+Germany,Hypertension hospital admission,Total,15 years old and over,UP_CI,255.5
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,281.0
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,279.6
+Germany,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,282.5
+Germany,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,648.3
+Germany,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,646.0
+Germany,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,650.5
+Italy,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,6.9
+Italy,Asthma hospital admission,Male,15 years old and over,LOW_CI,6.5
+Italy,Asthma hospital admission,Male,15 years old and over,UP_CI,7.2
+Italy,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,52.2
+Italy,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,51.4
+Italy,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,53.0
+Italy,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,257.0
+Italy,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,255.3
+Italy,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,258.8
+Italy,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,55.9
+Italy,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,55.1
+Italy,Diabetes hospital admission ,Male,15 years old and over,UP_CI,56.8
+Italy,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,3.8
+Italy,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,3.5
+Italy,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,4.0
+Italy,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,13.1
+Italy,Hypertension hospital admission,Male,15 years old and over,LOW_CI,12.7
+Italy,Hypertension hospital admission,Male,15 years old and over,UP_CI,13.5
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,59.1
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,57.9
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,60.2
+Italy,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,270.2
+Italy,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,268.0
+Italy,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,272.3
+Italy,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,4.9
+Italy,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,4.7
+Italy,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,5.1
+Italy,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,10.7
+Italy,Asthma hospital admission,Female,15 years old and over,LOW_CI,10.3
+Italy,Asthma hospital admission,Female,15 years old and over,UP_CI,11.1
+Italy,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,30.0
+Italy,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,29.5
+Italy,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,30.6
+Italy,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,165.8
+Italy,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,164.7
+Italy,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,167.0
+Italy,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,28.0
+Italy,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,27.4
+Italy,Diabetes hospital admission ,Female,15 years old and over,UP_CI,28.6
+Italy,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,1.2
+Italy,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,1.1
+Italy,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,1.3
+Italy,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,9.8
+Italy,Hypertension hospital admission,Female,15 years old and over,LOW_CI,9.5
+Italy,Hypertension hospital admission,Female,15 years old and over,UP_CI,10.2
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,40.7
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,39.8
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,41.6
+Italy,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,175.7
+Italy,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,174.2
+Italy,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,177.1
+Italy,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,1.6
+Italy,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,1.5
+Italy,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,1.7
+Italy,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,8.9
+Italy,Asthma hospital admission,Total,15 years old and over,LOW_CI,8.6
+Italy,Asthma hospital admission,Total,15 years old and over,UP_CI,9.1
+Italy,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,39.1
+Italy,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,38.7
+Italy,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,39.6
+Italy,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,204.6
+Italy,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,203.6
+Italy,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,205.6
+Italy,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,40.7
+Italy,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,40.2
+Italy,Diabetes hospital admission ,Total,15 years old and over,UP_CI,41.2
+Italy,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,2.4
+Italy,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,2.3
+Italy,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,2.5
+Italy,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,11.5
+Italy,Hypertension hospital admission,Total,15 years old and over,LOW_CI,11.2
+Italy,Hypertension hospital admission,Total,15 years old and over,UP_CI,11.7
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,48.0
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,47.3
+Italy,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,48.7
+Italy,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,216.1
+Italy,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,214.8
+Italy,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,217.3
+Italy,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,3.1
+Italy,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,3.0
+Italy,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,3.2
+Norway,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,13.4
+Norway,Asthma hospital admission,Male,15 years old and over,LOW_CI,11.9
+Norway,Asthma hospital admission,Male,15 years old and over,UP_CI,15.0
+Norway,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,215.4
+Norway,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,209.3
+Norway,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,221.6
+Norway,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,219.9
+Norway,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,213.5
+Norway,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,226.3
+Norway,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,86.6
+Norway,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,82.7
+Norway,Diabetes hospital admission ,Male,15 years old and over,UP_CI,90.5
+Norway,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,8.2
+Norway,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,7.0
+Norway,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,9.4
+Norway,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,27.9
+Norway,Hypertension hospital admission,Male,15 years old and over,LOW_CI,25.7
+Norway,Hypertension hospital admission,Male,15 years old and over,UP_CI,30.1
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,228.9
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,221.2
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,236.6
+Norway,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,247.8
+Norway,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,239.2
+Norway,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,256.4
+Norway,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,7.7
+Norway,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,6.5
+Norway,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,8.8
+Norway,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,28.2
+Norway,Asthma hospital admission,Female,15 years old and over,LOW_CI,26.0
+Norway,Asthma hospital admission,Female,15 years old and over,UP_CI,30.4
+Norway,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,229.5
+Norway,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,223.7
+Norway,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,235.4
+Norway,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,129.0
+Norway,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,124.8
+Norway,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,133.2
+Norway,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,56.9
+Norway,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,53.8
+Norway,Diabetes hospital admission ,Female,15 years old and over,UP_CI,60.1
+Norway,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.1
+Norway,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,2.4
+Norway,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,3.7
+Norway,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,40.1
+Norway,Hypertension hospital admission,Female,15 years old and over,LOW_CI,37.6
+Norway,Hypertension hospital admission,Female,15 years old and over,UP_CI,42.6
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,257.7
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,249.7
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,265.7
+Norway,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,169.1
+Norway,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,162.4
+Norway,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,175.7
+Norway,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,2.9
+Norway,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,2.2
+Norway,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,3.5
+Norway,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,21.2
+Norway,Asthma hospital admission,Total,15 years old and over,LOW_CI,19.8
+Norway,Asthma hospital admission,Total,15 years old and over,UP_CI,22.5
+Norway,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,220.9
+Norway,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,216.8
+Norway,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,225.1
+Norway,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,166.2
+Norway,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,162.6
+Norway,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,169.8
+Norway,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,70.4
+Norway,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,67.9
+Norway,Diabetes hospital admission ,Total,15 years old and over,UP_CI,72.8
+Norway,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,5.4
+Norway,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,4.8
+Norway,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,6.1
+Norway,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,35.6
+Norway,Hypertension hospital admission,Total,15 years old and over,LOW_CI,33.9
+Norway,Hypertension hospital admission,Total,15 years old and over,UP_CI,37.3
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,242.1
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,236.6
+Norway,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,247.6
+Norway,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,201.8
+Norway,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,196.5
+Norway,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,207.1
+Norway,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,5.1
+Norway,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,4.5
+Norway,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,5.7
+Sweden,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,9.7
+Sweden,Asthma hospital admission,Male,15 years old and over,LOW_CI,8.8
+Sweden,Asthma hospital admission,Male,15 years old and over,UP_CI,10.7
+Sweden,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,120.5
+Sweden,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,117.4
+Sweden,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,123.6
+Sweden,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,300.0
+Sweden,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,295.1
+Sweden,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,304.9
+Sweden,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,98.4
+Sweden,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,95.4
+Sweden,Diabetes hospital admission ,Male,15 years old and over,UP_CI,101.3
+Sweden,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,4.4
+Sweden,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,3.8
+Sweden,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,5.0
+Sweden,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,23.3
+Sweden,Hypertension hospital admission,Male,15 years old and over,LOW_CI,21.9
+Sweden,Hypertension hospital admission,Male,15 years old and over,UP_CI,24.7
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,130.3
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,126.3
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,134.3
+Sweden,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,323.3
+Sweden,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,316.9
+Sweden,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,329.6
+Sweden,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,4.4
+Sweden,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,3.8
+Sweden,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,4.9
+Sweden,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,22.1
+Sweden,Asthma hospital admission,Female,15 years old and over,LOW_CI,20.8
+Sweden,Asthma hospital admission,Female,15 years old and over,UP_CI,23.5
+Sweden,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,157.1
+Sweden,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,153.9
+Sweden,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,160.4
+Sweden,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,175.0
+Sweden,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,171.7
+Sweden,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,178.3
+Sweden,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,56.4
+Sweden,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,54.2
+Sweden,Diabetes hospital admission ,Female,15 years old and over,UP_CI,58.6
+Sweden,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.2
+Sweden,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,2.7
+Sweden,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,3.6
+Sweden,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,26.7
+Sweden,Hypertension hospital admission,Female,15 years old and over,LOW_CI,25.3
+Sweden,Hypertension hospital admission,Female,15 years old and over,UP_CI,28.1
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,179.3
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,174.7
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,183.9
+Sweden,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,201.7
+Sweden,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,197.1
+Sweden,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,206.3
+Sweden,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,3.4
+Sweden,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,2.9
+Sweden,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,3.8
+Sweden,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,16.4
+Sweden,Asthma hospital admission,Total,15 years old and over,LOW_CI,15.6
+Sweden,Asthma hospital admission,Total,15 years old and over,UP_CI,17.3
+Sweden,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,139.9
+Sweden,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,137.7
+Sweden,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,142.2
+Sweden,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,226.7
+Sweden,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,223.9
+Sweden,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,229.5
+Sweden,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,75.5
+Sweden,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,73.7
+Sweden,Diabetes hospital admission ,Total,15 years old and over,UP_CI,77.3
+Sweden,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,3.7
+Sweden,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,3.4
+Sweden,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,4.1
+Sweden,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,26.0
+Sweden,Hypertension hospital admission,Total,15 years old and over,LOW_CI,25.0
+Sweden,Hypertension hospital admission,Total,15 years old and over,UP_CI,27.0
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,156.4
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,153.3
+Sweden,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,159.5
+Sweden,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,252.6
+Sweden,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,248.8
+Sweden,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,256.5
+Sweden,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,3.8
+Sweden,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,3.4
+Sweden,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,4.2
+Switzerland,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,17.5
+Switzerland,Asthma hospital admission,Male,15 years old and over,LOW_CI,16.1
+Switzerland,Asthma hospital admission,Male,15 years old and over,UP_CI,18.8
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,282.2
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,276.9
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,287.4
+Switzerland,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,531.8
+Switzerland,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,524.7
+Switzerland,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,539.0
+Switzerland,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,155.8
+Switzerland,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,151.8
+Switzerland,Diabetes hospital admission ,Male,15 years old and over,UP_CI,159.7
+Switzerland,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,33.7
+Switzerland,Hypertension hospital admission,Male,15 years old and over,LOW_CI,31.9
+Switzerland,Hypertension hospital admission,Male,15 years old and over,UP_CI,35.5
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,299.6
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,293.0
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,306.2
+Switzerland,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,565.5
+Switzerland,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,556.5
+Switzerland,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,574.5
+Switzerland,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,5.2
+Switzerland,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,4.5
+Switzerland,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,5.9
+Switzerland,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,31.8
+Switzerland,Asthma hospital admission,Female,15 years old and over,LOW_CI,30.0
+Switzerland,Asthma hospital admission,Female,15 years old and over,UP_CI,33.6
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,184.9
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,181.0
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,188.8
+Switzerland,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,316.4
+Switzerland,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,311.7
+Switzerland,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,321.1
+Switzerland,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,69.2
+Switzerland,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,66.7
+Switzerland,Diabetes hospital admission ,Female,15 years old and over,UP_CI,71.8
+Switzerland,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,59.8
+Switzerland,Hypertension hospital admission,Female,15 years old and over,LOW_CI,57.6
+Switzerland,Hypertension hospital admission,Female,15 years old and over,UP_CI,62.0
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,216.7
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,211.0
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,222.4
+Switzerland,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,376.1
+Switzerland,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,369.2
+Switzerland,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,383.0
+Switzerland,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,1.4
+Switzerland,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,1.1
+Switzerland,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,1.7
+Switzerland,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,25.1
+Switzerland,Asthma hospital admission,Total,15 years old and over,LOW_CI,24.0
+Switzerland,Asthma hospital admission,Total,15 years old and over,UP_CI,26.2
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,224.0
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,220.9
+Switzerland,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,227.1
+Switzerland,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,402.9
+Switzerland,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,398.9
+Switzerland,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,406.9
+Switzerland,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,106.9
+Switzerland,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,104.7
+Switzerland,Diabetes hospital admission ,Total,15 years old and over,UP_CI,109.1
+Switzerland,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,49.4
+Switzerland,Hypertension hospital admission,Total,15 years old and over,LOW_CI,47.9
+Switzerland,Hypertension hospital admission,Total,15 years old and over,UP_CI,50.9
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,249.1
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,244.9
+Switzerland,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,253.4
+Switzerland,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,452.3
+Switzerland,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,446.8
+Switzerland,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,457.8
+Switzerland,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,3.2
+Switzerland,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,2.8
+Switzerland,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,3.5
+United Kingdom,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,41.9
+United Kingdom,Asthma hospital admission,Male,15 years old and over,LOW_CI,41.2
+United Kingdom,Asthma hospital admission,Male,15 years old and over,UP_CI,42.7
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,216.4
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,214.7
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,218.1
+United Kingdom,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,130.5
+United Kingdom,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,129.2
+United Kingdom,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,131.9
+United Kingdom,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,95.6
+United Kingdom,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,94.5
+United Kingdom,Diabetes hospital admission ,Male,15 years old and over,UP_CI,96.8
+United Kingdom,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,15.8
+United Kingdom,Hypertension hospital admission,Male,15 years old and over,LOW_CI,15.4
+United Kingdom,Hypertension hospital admission,Male,15 years old and over,UP_CI,16.3
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,258.4
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,255.9
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,260.8
+United Kingdom,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,146.4
+United Kingdom,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,144.6
+United Kingdom,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,148.2
+United Kingdom,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,105.4
+United Kingdom,Asthma hospital admission,Female,15 years old and over,LOW_CI,104.2
+United Kingdom,Asthma hospital admission,Female,15 years old and over,UP_CI,106.6
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,230.9
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,229.3
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,232.5
+United Kingdom,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,91.1
+United Kingdom,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,90.1
+United Kingdom,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,92.0
+United Kingdom,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,68.2
+United Kingdom,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,67.2
+United Kingdom,Diabetes hospital admission ,Female,15 years old and over,UP_CI,69.1
+United Kingdom,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,19.2
+United Kingdom,Hypertension hospital admission,Female,15 years old and over,LOW_CI,18.7
+United Kingdom,Hypertension hospital admission,Female,15 years old and over,UP_CI,19.7
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,336.3
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,333.5
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,339.2
+United Kingdom,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,110.3
+United Kingdom,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,108.9
+United Kingdom,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,111.7
+United Kingdom,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,74.5
+United Kingdom,Asthma hospital admission,Total,15 years old and over,LOW_CI,73.8
+United Kingdom,Asthma hospital admission,Total,15 years old and over,UP_CI,75.3
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,222.9
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,221.8
+United Kingdom,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,224.1
+United Kingdom,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,107.8
+United Kingdom,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,107.1
+United Kingdom,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,108.6
+United Kingdom,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,80.9
+United Kingdom,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,80.2
+United Kingdom,Diabetes hospital admission ,Total,15 years old and over,UP_CI,81.7
+United Kingdom,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,18.0
+United Kingdom,Hypertension hospital admission,Total,15 years old and over,LOW_CI,17.7
+United Kingdom,Hypertension hospital admission,Total,15 years old and over,UP_CI,18.4
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,297.4
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,295.6
+United Kingdom,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,299.3
+United Kingdom,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,125.9
+United Kingdom,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,124.7
+United Kingdom,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,127.0
+Israel,Asthma hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,26.4
+Israel,Asthma hospital admission,Male,15 years old and over,LOW_CI,24.6
+Israel,Asthma hospital admission,Male,15 years old and over,UP_CI,28.3
+Israel,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,215.9
+Israel,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,210.2
+Israel,Chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,221.6
+Israel,Congestive heart failure hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,262.9
+Israel,Congestive heart failure hospital admission,Male,15 years old and over,LOW_CI,256.5
+Israel,Congestive heart failure hospital admission,Male,15 years old and over,UP_CI,269.4
+Israel,Diabetes hospital admission ,Male,15 years old and over,AS_STD_RATE_MPOP,96.9
+Israel,Diabetes hospital admission ,Male,15 years old and over,LOW_CI,93.1
+Israel,Diabetes hospital admission ,Male,15 years old and over,UP_CI,100.6
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MPOP,26.7
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI,24.7
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI,28.7
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,AS_STD_RATE_MDIAB,139.4
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,UP_CI_DIAB,153.3
+Israel,Diabetes lower extremity amputation using unlinked data,Male,15 years old and over,LOW_CI_DIAB,125.4
+Israel,Hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,81.7
+Israel,Hypertension hospital admission,Male,15 years old and over,LOW_CI,78.2
+Israel,Hypertension hospital admission,Male,15 years old and over,UP_CI,85.2
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,242.4
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,LOW_CI,234.8
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Male,15 years old and over,UP_CI,250.0
+Israel,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,AS_STD_RATE_MPOP,344.6
+Israel,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,LOW_CI,334.7
+Israel,Congestive heart failure and hypertension hospital admission,Male,15 years old and over,UP_CI,354.5
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MPOP,27.5
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI,25.5
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI,29.6
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,AS_STD_RATE_MDIAB,140.4
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,UP_CI_DIAB,153.9
+Israel,Diabetes lower extremity amputation using linked data,Male,15 years old and over,LOW_CI_DIAB,126.8
+Israel,Asthma hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,49.1
+Israel,Asthma hospital admission,Female,15 years old and over,LOW_CI,46.7
+Israel,Asthma hospital admission,Female,15 years old and over,UP_CI,51.6
+Israel,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,105.9
+Israel,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,102.3
+Israel,Chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,109.5
+Israel,Congestive heart failure hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,190.0
+Israel,Congestive heart failure hospital admission,Female,15 years old and over,LOW_CI,185.3
+Israel,Congestive heart failure hospital admission,Female,15 years old and over,UP_CI,194.8
+Israel,Diabetes hospital admission ,Female,15 years old and over,AS_STD_RATE_MPOP,49.4
+Israel,Diabetes hospital admission ,Female,15 years old and over,LOW_CI,46.9
+Israel,Diabetes hospital admission ,Female,15 years old and over,UP_CI,51.8
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MPOP,9.9
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI,8.8
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI,11.0
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,AS_STD_RATE_MDIAB,58.3
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,UP_CI_DIAB,68.0
+Israel,Diabetes lower extremity amputation using unlinked data,Female,15 years old and over,LOW_CI_DIAB,48.6
+Israel,Hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,78.7
+Israel,Hypertension hospital admission,Female,15 years old and over,LOW_CI,75.6
+Israel,Hypertension hospital admission,Female,15 years old and over,UP_CI,81.8
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,155.0
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,LOW_CI,148.9
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Female,15 years old and over,UP_CI,161.1
+Israel,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,AS_STD_RATE_MPOP,268.8
+Israel,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,LOW_CI,260.9
+Israel,Congestive heart failure and hypertension hospital admission,Female,15 years old and over,UP_CI,276.6
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MPOP,10.1
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI,9.0
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI,11.2
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,AS_STD_RATE_MDIAB,59.3
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,UP_CI_DIAB,69.0
+Israel,Diabetes lower extremity amputation using linked data,Female,15 years old and over,LOW_CI_DIAB,49.5
+Israel,Asthma hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,38.9
+Israel,Asthma hospital admission,Total,15 years old and over,LOW_CI,37.3
+Israel,Asthma hospital admission,Total,15 years old and over,UP_CI,40.5
+Israel,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,154.6
+Israel,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,151.4
+Israel,Chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,157.8
+Israel,Congestive heart failure hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,222.8
+Israel,Congestive heart failure hospital admission,Total,15 years old and over,LOW_CI,218.9
+Israel,Congestive heart failure hospital admission,Total,15 years old and over,UP_CI,226.7
+Israel,Diabetes hospital admission ,Total,15 years old and over,AS_STD_RATE_MPOP,71.2
+Israel,Diabetes hospital admission ,Total,15 years old and over,LOW_CI,69.0
+Israel,Diabetes hospital admission ,Total,15 years old and over,UP_CI,73.4
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MPOP,17.6
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI,16.5
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI,18.7
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,AS_STD_RATE_MDIAB,101.7
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,UP_CI_DIAB,110.1
+Israel,Diabetes lower extremity amputation using unlinked data,Total,15 years old and over,LOW_CI_DIAB,93.3
+Israel,Hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,81.5
+Israel,Hypertension hospital admission,Total,15 years old and over,LOW_CI,79.2
+Israel,Hypertension hospital admission,Total,15 years old and over,UP_CI,83.9
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,193.5
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,LOW_CI,188.7
+Israel,Asthma and chronic obstructive pulmonary disease hospital admission,Total,15 years old and over,UP_CI,198.3
+Israel,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,AS_STD_RATE_MPOP,304.3
+Israel,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,LOW_CI,298.1
+Israel,Congestive heart failure and hypertension hospital admission,Total,15 years old and over,UP_CI,310.6
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MPOP,18.1
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI,17.0
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI,19.2
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,AS_STD_RATE_MDIAB,102.6
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,UP_CI_DIAB,110.8
+Israel,Diabetes lower extremity amputation using linked data,Total,15 years old and over,LOW_CI_DIAB,94.3
+Netherlands,Excess mortality for patients diagnosed with schizophrenia,Male,15-74 years old,AS_STD_RATIO,3.9
+Netherlands,Excess mortality for patients diagnosed with bipolar disorder,Male,15-74 years old,AS_STD_RATIO,2.9
+Netherlands,Excess mortality for patients diagnosed with schizophrenia,Female,15-74 years old,AS_STD_RATIO,3.8
+Netherlands,Excess mortality for patients diagnosed with bipolar disorder,Female,15-74 years old,AS_STD_RATIO,2.7
+Netherlands,Excess mortality for patients diagnosed with schizophrenia,Total,15-74 years old,AS_STD_RATIO,3.8
+Netherlands,Excess mortality for patients diagnosed with bipolar disorder,Total,15-74 years old,AS_STD_RATIO,2.8
+Norway,Excess mortality for patients diagnosed with schizophrenia,Male,15-74 years old,AS_STD_RATIO,4.0
+Norway,Excess mortality for patients diagnosed with bipolar disorder,Male,15-74 years old,AS_STD_RATIO,2.9
+Norway,Excess mortality for patients diagnosed with schizophrenia,Female,15-74 years old,AS_STD_RATIO,2.4
+Norway,Excess mortality for patients diagnosed with bipolar disorder,Female,15-74 years old,AS_STD_RATIO,4.3
+Norway,Excess mortality for patients diagnosed with schizophrenia,Total,15-74 years old,AS_STD_RATIO,3.4
+Norway,Excess mortality for patients diagnosed with bipolar disorder,Total,15-74 years old,AS_STD_RATIO,3.5
+Sweden,Excess mortality for patients diagnosed with schizophrenia,Male,15-74 years old,AS_STD_RATIO,3.8
+Sweden,Excess mortality for patients diagnosed with bipolar disorder,Male,15-74 years old,AS_STD_RATIO,2.6
+Sweden,Excess mortality for patients diagnosed with schizophrenia,Female,15-74 years old,AS_STD_RATIO,5.7
+Sweden,Excess mortality for patients diagnosed with bipolar disorder,Female,15-74 years old,AS_STD_RATIO,2.3
+Sweden,Excess mortality for patients diagnosed with schizophrenia,Total,15-74 years old,AS_STD_RATIO,4.6
+Sweden,Excess mortality for patients diagnosed with bipolar disorder,Total,15-74 years old,AS_STD_RATIO,2.5
+Israel,Excess mortality for patients diagnosed with schizophrenia,Male,15-74 years old,AS_STD_RATIO,4.1
+Israel,Excess mortality for patients diagnosed with bipolar disorder,Male,15-74 years old,AS_STD_RATIO,3.4
+Israel,Excess mortality for patients diagnosed with schizophrenia,Female,15-74 years old,AS_STD_RATIO,4.7
+Israel,Excess mortality for patients diagnosed with bipolar disorder,Female,15-74 years old,AS_STD_RATIO,4.0
+Israel,Excess mortality for patients diagnosed with schizophrenia,Total,15-74 years old,AS_STD_RATIO,4.3
+Israel,Excess mortality for patients diagnosed with bipolar disorder,Total,15-74 years old,AS_STD_RATIO,3.7
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.07
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.06
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.09
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.05
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.04
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.06
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.06
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.05
+Canada,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.07
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.03
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.01
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.06
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.6
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.46
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.73
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.14
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.07
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.2
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.0
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.0
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.01
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.43
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.31
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.54
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.11
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.05
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.16
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.02
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.01
+Norway,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.03
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.51
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.42
+Norway,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.6
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.12
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.08
+Norway,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.16
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.43
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.37
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.5
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.43
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.37
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.5
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,AS_STD_RATE_CPAT,0.19
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,LOW_CI,0.14
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Male,15 years old and over,UP_CI,0.23
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.3
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.24
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.36
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.3
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.24
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.36
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,AS_STD_RATE_CPAT,0.15
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,LOW_CI,0.11
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Female,15 years old and over,UP_CI,0.19
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.36
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.32
+Sweden,In-patient suicide among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.41
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.36
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.32
+Sweden,Suicide within 1 year after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.41
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,AS_STD_RATE_CPAT,0.16
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,LOW_CI,0.14
+Sweden,Suicide within 30 days after discharge among patients diagnosed with a mental disorder,Total,15 years old and over,UP_CI,0.19
+Australia,Consultation skipped due to costs,Male,16 years and over,LOW_CI,11.6
+Australia,Consultation skipped due to costs,Male,16 years and over,UP_CI,13.2
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Male,16 years and over,LOW_CI,2.2
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Male,16 years and over,UP_CI,2.9
+Australia,Prescribed medicines skipped due to costs,Male,16 years and over,LOW_CI,4.7
+Australia,Prescribed medicines skipped due to costs,Male,16 years and over,UP_CI,5.8
+Australia,Doctor spending enough time with patients during the consultation,Male,16 years and over,LOW_CI,91.3
+Australia,Doctor spending enough time with patients during the consultation,Male,16 years and over,UP_CI,92.5
+Australia,Consultation skipped due to costs,Female,16 years and over,LOW_CI,17.0
+Australia,Consultation skipped due to costs,Female,16 years and over,UP_CI,18.4
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Female,16 years and over,LOW_CI,3.1
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Female,16 years and over,UP_CI,4.0
+Australia,Prescribed medicines skipped due to costs,Female,16 years and over,LOW_CI,7.2
+Australia,Prescribed medicines skipped due to costs,Female,16 years and over,UP_CI,8.2
+Australia,Doctor spending enough time with patients during the consultation,Female,16 years and over,LOW_CI,89.3
+Australia,Doctor spending enough time with patients during the consultation,Female,16 years and over,UP_CI,90.9
+Australia,Consultation skipped due to costs,Total,16 years and over,LOW_CI,14.6
+Australia,Consultation skipped due to costs,Total,16 years and over,UP_CI,15.8
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Total,16 years and over,LOW_CI,2.8
+Australia,"Medical tests, treatment or follow-up skipped due to costs",Total,16 years and over,UP_CI,3.4
+Australia,Prescribed medicines skipped due to costs,Total,16 years and over,LOW_CI,6.2
+Australia,Prescribed medicines skipped due to costs,Total,16 years and over,UP_CI,7.0
+Australia,Doctor spending enough time with patients during the consultation,Total,16 years and over,LOW_CI,90.5
+Australia,Doctor spending enough time with patients during the consultation,Total,16 years and over,UP_CI,91.3
+Canada,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,16.3
+Canada,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,3.4
+Canada,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_ALL,7.7
+Canada,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_ALL,165.6
+Canada,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,525.4
+Canada,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,248.0
+Canada,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_ALL,1473.4
+Denmark,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,12.7
+Denmark,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.9
+Germany,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,6.4
+Germany,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,1.5
+Germany,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,5.8
+Germany,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,619.7
+Germany,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,347.2
+Germany,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,329.0
+Germany,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,2525.5
+Italy,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.4
+Italy,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,0.8
+Italy,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,0.6
+Italy,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_ALL,1964.3
+Italy,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,69.3
+Italy,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_ALL,4439.9
+Italy,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,32.0
+Italy,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,3911.6
+Italy,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,46.9
+Italy,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,3973.2
+Italy,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,953.9
+Italy,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_ALL,4387.7
+New Zealand,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,9.3
+New Zealand,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,1.8
+Norway,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.7
+Norway,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,1.3
+Norway,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,5.4
+Norway,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,79.6
+Norway,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,254.1
+Norway,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,192.6
+Norway,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,2613.7
+Sweden,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,9.9
+Sweden,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.1
+Sweden,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,9.0
+Sweden,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_ALL,8.8
+Sweden,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,317.4
+Sweden,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_ALL,488.9
+Sweden,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,318.3
+Sweden,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,405.1
+Sweden,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,86.8
+Sweden,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,115.7
+Sweden,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,1542.7
+Sweden,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_ALL,763.7
+Switzerland,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,7.3
+Switzerland,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.1
+Switzerland,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_ALL,9.1
+Switzerland,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_ALL,297.9
+Switzerland,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,402.3
+Switzerland,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_ALL,178.3
+Switzerland,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_ALL,2035.9
+United Kingdom,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,5.8
+United Kingdom,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,2.4
+United Kingdom,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,8.5
+United Kingdom,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,75.4
+United Kingdom,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,346.7
+United Kingdom,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,223.8
+United Kingdom,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,3772.5
+Israel,Obstetric trauma vaginal delivery with instrument,Female,15 years old and over,CRUDE_RATE_CVAG,1.9
+Israel,Obstetric trauma vaginal delivery without instrument,Female,15 years old and over,CRUDE_RATE_CVAG,0.5
+Israel,Retained surgical item or unretrieved device fragment,Total,15 years old and over,CRUDE_DIS_SURG,2.6
+Israel,Post-operative wound dehiscence,Total,15 years old and over,CRUDE_DIS_SURG,61.7
+Israel,Post-operative pulmonary embolism - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,487.7
+Israel,Post-operative deep vein thrombosis - hip and knee replacement discharges,Total,15 years old and over,CRUDE_DIS_SURG,310.5
+Israel,Post-operative sepsis - abdominal discharges,Total,15 years old and over,CRUDE_DIS_SURG,4122.6
+Australia,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,2.2
+Australia,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,39.7
+Australia,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,32.4
+Australia,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,32.1
+Australia,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,32.6
+Australia,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,3.1
+Australia,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,60.1
+Australia,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,36.3
+Australia,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,36.1
+Australia,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,36.6
+Australia,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,2.7
+Australia,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,50.6
+Australia,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,34.8
+Australia,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,34.6
+Australia,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,35.0
+Canada,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,10.2
+Canada,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,7.4
+Canada,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,50.4
+Canada,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,50.1
+Canada,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,50.7
+Canada,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,13.6
+Canada,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,9.4
+Canada,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,57.9
+Canada,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,57.6
+Canada,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,58.2
+Canada,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,12.1
+Canada,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,8.5
+Canada,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,54.9
+Canada,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,54.7
+Canada,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,55.1
+Denmark,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,7.6
+Denmark,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,10.4
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,31.0
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,30.5
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,31.5
+Denmark,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,14.7
+Denmark,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,19.2
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,37.5
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,37.0
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,38.0
+Denmark,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,11.4
+Denmark,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,15.2
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,34.8
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,34.5
+Denmark,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,35.1
+Netherlands,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,10.0
+Netherlands,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,19.7
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,29.9
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,29.6
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,30.2
+Netherlands,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,22.7
+Netherlands,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,34.0
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,33.4
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,33.2
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,33.7
+Netherlands,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,16.8
+Netherlands,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,27.4
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,31.9
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,31.7
+Netherlands,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,32.1
+Norway,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,28.2
+Norway,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,38.9
+Norway,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,30.2
+Norway,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,29.6
+Norway,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,30.7
+Norway,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,57.0
+Norway,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,74.6
+Norway,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,42.0
+Norway,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,41.4
+Norway,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,42.6
+Norway,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,43.6
+Norway,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,58.0
+Norway,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,37.0
+Norway,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,36.6
+Norway,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,37.4
+Sweden,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,21.3
+Sweden,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,9.9
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,AS_STD_RATE_MPOP,14.3
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,LOW_CI,14.1
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Male,65 years old and over,UP_CI,14.6
+Sweden,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,34.2
+Sweden,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,13.4
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,AS_STD_RATE_MPOP,17.5
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,LOW_CI,17.2
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Female,65 years old and over,UP_CI,17.7
+Sweden,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,28.3
+Sweden,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,11.8
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,AS_STD_RATE_MPOP,16.4
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,LOW_CI,16.2
+Sweden,Proportion of people 65 and over prescribed antipsychotics,Total,65 years old and over,UP_CI,16.5
+Israel,Elderly patients with prescription of long-term benzodiazepines or related drugs,Male,65 years old and over,NUM_MILE,36.3
+Israel,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Male,65 years old and over,NUM_MILE,15.8
+Israel,Elderly patients with prescription of long-term benzodiazepines or related drugs,Female,65 years old and over,NUM_MILE,55.2
+Israel,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Female,65 years old and over,NUM_MILE,21.3
+Israel,Elderly patients with prescription of long-term benzodiazepines or related drugs,Total,65 years old and over,NUM_MILE,46.8
+Israel,Elderly patients with prescription of long-acting benzodiazepines or related drugs ,Total,65 years old and over,NUM_MILE,18.8
+Australia,Proportion of 75 years and over who are taking more than 5 medications concurrently,Male,75 years old and over,RATIO,40.3
+Australia,Proportion of 75 years and over who are taking more than 5 medications concurrently,Female,75 years old and over,RATIO,40.2
+Australia,Proportion of 75 years and over who are taking more than 5 medications concurrently,Total,75 years old and over,RATIO,40.2
+Canada,Proportion of 75 years and over who are taking more than 5 medications concurrently,Male,75 years old and over,RATIO,47.7
+Canada,Proportion of 75 years and over who are taking more than 5 medications concurrently,Female,75 years old and over,RATIO,46.0
+Canada,Proportion of 75 years and over who are taking more than 5 medications concurrently,Total,75 years old and over,RATIO,46.7
+Denmark,Proportion of 75 years and over who are taking more than 5 medications concurrently,Male,75 years old and over,RATIO,19.9
+Denmark,Proportion of 75 years and over who are taking more than 5 medications concurrently,Female,75 years old and over,RATIO,23.7
+Denmark,Proportion of 75 years and over who are taking more than 5 medications concurrently,Total,75 years old and over,RATIO,22.1
+Netherlands,Proportion of 75 years and over who are taking more than 5 medications concurrently,Male,75 years old and over,RATIO,51.7
+Netherlands,Proportion of 75 years and over who are taking more than 5 medications concurrently,Female,75 years old and over,RATIO,50.1
+Netherlands,Proportion of 75 years and over who are taking more than 5 medications concurrently,Total,75 years old and over,RATIO,50.8
+Sweden,Proportion of 75 years and over who are taking more than 5 medications concurrently,Male,75 years old and over,RATIO,43.1
+Sweden,Proportion of 75 years and over who are taking more than 5 medications concurrently,Female,75 years old and over,RATIO,45.2
+Sweden,Proportion of 75 years and over who are taking more than 5 medications concurrently,Total,75 years old and over,RATIO,44.3
+Australia,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,80.5
+Australia,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,89.9
+Australia,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Male,All age groups,NUM_COAG,12.0
+Australia,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,29.0
+Australia,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,15.6
+Australia,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,77.0
+Australia,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,87.3
+Australia,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Female,All age groups,NUM_COAG,12.2
+Australia,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,34.9
+Australia,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,15.7
+Australia,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,79.0
+Australia,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,88.9
+Australia,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Total,All age groups,NUM_COAG,12.1
+Australia,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,32.2
+Australia,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,15.7
+Canada,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,76.6
+Canada,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,91.0
+Canada,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,12.3
+Canada,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,20.3
+Canada,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,69.8
+Canada,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,87.6
+Canada,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,16.0
+Canada,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,17.7
+Canada,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,73.8
+Canada,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,89.6
+Canada,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,14.2
+Canada,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,18.8
+Denmark,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,80.1
+Denmark,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,87.9
+Denmark,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Male,All age groups,NUM_COAG,10.3
+Denmark,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,10.5
+Denmark,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,3.9
+Denmark,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,77.5
+Denmark,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,82.1
+Denmark,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Female,All age groups,NUM_COAG,9.7
+Denmark,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,15.5
+Denmark,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,2.3
+Denmark,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,79.1
+Denmark,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,85.6
+Denmark,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Total,All age groups,NUM_COAG,10.1
+Denmark,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,13.0
+Denmark,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,3.0
+Netherlands,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,79.7
+Netherlands,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,82.7
+Netherlands,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Male,All age groups,NUM_COAG,11.3
+Netherlands,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,11.2
+Netherlands,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,11.1
+Netherlands,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,74.8
+Netherlands,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,75.7
+Netherlands,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Female,All age groups,NUM_COAG,13.1
+Netherlands,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,13.2
+Netherlands,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,6.1
+Netherlands,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,77.6
+Netherlands,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,79.7
+Netherlands,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Total,All age groups,NUM_COAG,12.1
+Netherlands,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,12.3
+Netherlands,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,8.2
+Norway,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,71.3
+Norway,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,83.2
+Norway,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Male,All age groups,NUM_COAG,10.2
+Norway,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,14.5
+Norway,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,3.8
+Norway,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,65.6
+Norway,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,79.8
+Norway,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Female,All age groups,NUM_COAG,10.7
+Norway,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,22.8
+Norway,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,1.7
+Norway,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,69.1
+Norway,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,81.9
+Norway,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Total,All age groups,NUM_COAG,10.4
+Norway,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,19.0
+Norway,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,2.4
+Sweden,Diabetic patients with at least one prescription of cholesterol lowering medication ,Male,All age groups,PERDIAB,74.7
+Sweden,Diabetic patients with prescription of first choice antihypertensive medication,Male,All age groups,PERDIAB,87.2
+Sweden,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Male,All age groups,NUM_COAG,3.4
+Sweden,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,8.1
+Sweden,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,6.8
+Sweden,Diabetic patients with at least one prescription of cholesterol lowering medication ,Female,All age groups,PERDIAB,71.0
+Sweden,Diabetic patients with prescription of first choice antihypertensive medication,Female,All age groups,PERDIAB,81.8
+Sweden,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Female,All age groups,NUM_COAG,3.5
+Sweden,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,10.1
+Sweden,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,2.8
+Sweden,Diabetic patients with at least one prescription of cholesterol lowering medication ,Total,All age groups,PERDIAB,73.3
+Sweden,Diabetic patients with prescription of first choice antihypertensive medication,Total,All age groups,PERDIAB,85.1
+Sweden,Patients with long-term prescription of any anticoagulating drug in combination with an oral NSAID,Total,All age groups,NUM_COAG,3.4
+Sweden,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,9.2
+Sweden,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,4.4
+Israel,Total volume of antibiotics for systemic use,Male,All age groups,DDD_POP,16.3
+Israel,Volume of second line antibiotics as a share of total volume,Male,All age groups,PER_ANT,22.0
+Israel,Total volume of antibiotics for systemic use,Female,All age groups,DDD_POP,22.8
+Israel,Volume of second line antibiotics as a share of total volume,Female,All age groups,PER_ANT,26.1
+Israel,Total volume of antibiotics for systemic use,Total,All age groups,DDD_POP,19.6
+Israel,Volume of second line antibiotics as a share of total volume,Total,All age groups,PER_ANT,24.4
+Australia,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,26.1
+Australia,Proportion of the population who are chronic opioid users,Male,18 years old and over,DDD_POP,5.6
+Australia,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,26.6
+Australia,Proportion of the population who are chronic opioid users,Female,18 years old and over,DDD_POP,6.2
+Australia,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,26.3
+Australia,Proportion of the population who are chronic opioid users,Total,18 years old and over,DDD_POP,6.0
+Canada,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,14.8
+Canada,Proportion of the population who are chronic opioid users,Male,18 years old and over,RATIO,2.4
+Canada,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,14.4
+Canada,Proportion of the population who are chronic opioid users,Female,18 years old and over,RATIO,2.8
+Canada,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,14.6
+Canada,Proportion of the population who are chronic opioid users,Total,18 years old and over,RATIO,2.6
+Denmark,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,13.8
+Denmark,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,20.9
+Denmark,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,17.4
+Netherlands,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,10.3
+Netherlands,Proportion of the population who are chronic opioid users,Male,18 years old and over,RATIO,1.0
+Netherlands,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,14.0
+Netherlands,Proportion of the population who are chronic opioid users,Female,18 years old and over,RATIO,1.6
+Netherlands,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,12.4
+Netherlands,Proportion of the population who are chronic opioid users,Total,18 years old and over,RATIO,1.3
+Norway,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,23.4
+Norway,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,29.8
+Norway,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,26.9
+Sweden,Overall volume of opioids prescribed,Male,18 years old and over,DDD_POP,13.8
+Sweden,Proportion of the population who are chronic opioid users,Male,18 years old and over,RATIO,1.3
+Sweden,Overall volume of opioids prescribed,Female,18 years old and over,DDD_POP,16.3
+Sweden,Proportion of the population who are chronic opioid users,Female,18 years old and over,RATIO,1.6
+Sweden,Overall volume of opioids prescribed,Total,18 years old and over,DDD_POP,15.2
+Sweden,Proportion of the population who are chronic opioid users,Total,18 years old and over,RATIO,1.5
