@@ -1,0 +1,19 @@
+name: isyswinter
+channels:
+  - pyviz
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - pip
+  - jupyter
+  - ipywidgets
+  - hvplot
+  - altair
+  - pip:
+    - cif
+    - itables
+    - pydicom
+    - dmi
+    - hachoir
