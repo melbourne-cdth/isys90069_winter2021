@@ -1,5 +1,5 @@
 import numpy as np
-from skimage.io import imshow
+#from skimage.io import imshow
 import os
 import pydicom
 import pandas as pd
