@@ -1,6 +1,10 @@
 import pandas as pd
 import string
 from collections import Counter
+import json
+import ipywidgets as ipw
+import iso_language_codes as ilc
+import random
 
 def get_chief_complaint_data():
     """"
@@ -85,4 +89,18 @@ def get_word_counts(df):
     return pd.DataFrame.from_dict(Counter(tmp), orient="index").rename(columns={0:"Count"}).rename_axis("word")
 
 
+def count_to_df(data, label="Words"):
+     return pd.DataFrame.from_dict(Counter(data), orient="index").rename(columns={0:"Count"}).rename_axis(label)
+def get_lang(l):
+    try:
+        return ilc.language_name(l)
+    except:
+        return l
+
+def get_twitter_data():
+
+    with open("30000.twitter") as f:
+        return [json.loads(l) for l in f.readlines()]
+def counter_to_df(c, label="words"):
+     return pd.DataFrame.from_dict(c, orient="index").rename(columns={0:"Count"}).rename_axis(label)
 
