@@ -119,8 +119,8 @@ def func1(t):
 
 
 class Decisions(param.Parameterized):
-    np    = param.Integer(default=1000, bounds=(100, 5000))
-    nn    = param.Integer(default=1000, bounds=(100, 5000))
+    np    = param.Integer(default=1000, bounds=(10, 1000))
+    nn    = param.Integer(default=1000, bounds=(100, 10000))
     std_p     = param.Number(default=1, bounds=(0.5, 5))
     std_n     = param.Number(default=1, bounds=(0.5, 5))
     mean_p     = param.Number(default=0, bounds=(-2, 2))
