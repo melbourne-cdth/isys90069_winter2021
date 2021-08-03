@@ -1,6 +1,5 @@
 from jinja2 import Template
 import jinja2
-import matplotlib.pyplot as plt
 
 from IPython.display import display, clear_output, HTML
 
